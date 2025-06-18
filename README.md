@@ -11,7 +11,7 @@ npm install @xcr/status-codes
 ## 📦 Usage
 
 ```ts
-import { statusCode } from "@xcr/status-codes";
+import { statusCode } from "statuskit";
 
 console.log(statusCode.OK); // 200
 console.log(statusCode.NotFound); // 404

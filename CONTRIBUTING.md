@@ -1,13 +1,13 @@
 # Contributing Guide 🤝
 
-Thank you for considering contributing to `status-codes`!
+Thank you for considering contributing to `statuskit`!
 
 ## 🛠 How to Contribute
 
 1. **Fork** the repository
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/xatrarana/status-codes.git
+   git clone https://github.com/xatrarana/statuskit.git
    ```
 3. **Install dependencies**
    ```bash
