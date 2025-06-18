@@ -1,0 +1,22 @@
+{
+  "name": "@xcr/status-codes",
+  "version": "1.0.0",
+  "description": "Centralized HTTP status code constants for Node.js and TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node ./dist/test/status-codes.test.js",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xatrarana/status-codes.git"
+  },
+  "keywords": ["http", "status-codes", "typescript", "node"],
+  "author": "Chhatra Rana",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
